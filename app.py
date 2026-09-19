@@ -22,8 +22,8 @@ modelo, min_max_scaler, variables = pickle.load(open(filename, 'rb'))
 modelo
 
 #Cargamos los datos futuros
-data = pd.read_csv("videojuegos-datosFuturos.csv")
-data.head()
+#data = pd.read_csv("videojuegos-datosFuturos.csv")
+#data.head()
 
 #Interfaz gráfica
 
