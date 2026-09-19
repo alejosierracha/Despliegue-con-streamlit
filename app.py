@@ -7,12 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/11Mq0ZZBmaHFyDUi3-HwUruYKbQW8ADA3
 """
 
-# Despliegue
 
-- Cargamos el modelo
-- Cargamos los datos futuros
-- Preparar los datos futuros: normalizar, dummies
-- Aplicamos el modelo para la predicción
 
 #Cargamos librerías principales
 
